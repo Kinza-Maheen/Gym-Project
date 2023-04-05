@@ -1,0 +1,136 @@
+body {
+    margin: 0px;
+    padding: 5px;
+    background: url('back.jpg');
+    background-size: 1367px;
+    background-repeat: no-repeat;
+}
+
+.header {
+    margin: 0px auto;
+}
+
+.left {
+    position: relative;
+    left: 200px;
+    top: 20px;
+    width: 207px;
+    padding: 3px auto auto 0px;
+
+}
+
+.left img {
+    margin: 2px;
+    height: 100px;
+    width: 160px;
+    padding: 18px 14px 18px 5px;
+    filter: invert(97%)
+}
+
+.left div {
+    text-align: center;
+    margin: -30px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Climate Crisis', cursive;
+}
+
+.center {
+    width: 530px;
+    margin: -2px auto;
+    padding: 3px;
+    border-radius: 53px;
+
+}
+
+.nav li {
+    display: inline-block;
+}
+
+.nav li a {
+    display: inline-block;
+    font-size: 16px;
+    color: 1px solid rgb(84 71 203);
+    text-decoration: none;
+    padding: 7px;
+    font-weight: bold;
+}
+
+a:hover {
+    color: rgb(168, 117, 117);
+
+
+}
+
+.right {
+    margin: -50px 4px 0px auto;
+    width: 200px;
+    padding: 3px;
+
+}
+
+.right button.btn {
+    margin: -15px -60px;
+    font-size: 16px;
+    padding: 11px 17px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(142 175 99);
+    border: none;
+    display: inline-block;
+
+}
+
+button.btn:hover{
+    color: rgb(230, 209, 209);
+}
+
+.caption {
+    margin: 0px auto;
+}
+
+.caption h2.cap {
+    background-color: rgb(211, 215, 226);
+    border-radius: 30px;
+    text-align: center;
+    width: 620px;
+    padding: 20px;
+    margin: 0px auto;
+    font-family: 'Golos Text', sans-serif;
+    color: black;
+    font-size: 60px;
+}
+
+.caption em.cap {
+    color:  rgb(84 71 203);
+    font-size: 90px;
+}
+
+.caption h6 {
+    background-color: rgb(204, 127, 38);
+    font-size: larger;
+    width: 214px;
+    margin: 50px auto;
+    padding: 12px;
+}
+.main-button{
+    margin: 20px auto auto;
+}
+
+.main-button button {
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 16px;
+    display: block;
+    margin: 0 auto;
+    padding: 10px 10px 10px 10px;
+    width: 220px;
+    font-size: 17px;
+    background-color: rgb(142 175 99);
+
+
+}
+
+.main-button button:hover{
+    color:  rgb(42 109 141);
+}
